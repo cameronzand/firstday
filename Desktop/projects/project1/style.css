@@ -1,0 +1,90 @@
+nav {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  background-color: grey;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  
+}
+
+h1 {
+  font-size: 18px;
+  border: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: inline-block;
+  margin-left: 3px;
+}
+
+#new {
+  margin-left: 10px;
+}
+
+#box {
+ color: white;
+  margin-left: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 5px;
+  padding-right: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  
+}
+
+#seperator {
+  color: white;
+}
+
+#login {
+  float: right;
+  margin-right: 5px;
+}
+
+a {
+  color:black;
+}
+
+.list a:link {color: grey;}
+
+.list {
+  background-color: lightgrey;
+  margin-top: -16px;
+  padding: 0;
+  
+}
+
+.links {
+  color: white;
+  font-size: 12px;
+}
+
+hr {
+   display: block;
+    height: 1px;
+    border-top: 5px solid #cccc;
+    padding: 0; 
+}
+
+.footer {
+
+  color: white;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.below {
+  color: grey;
+  padding-left: 15px;
+}
+
+.more {
+  padding-left: 55px;
+}
+
+.form {
+    color: grey;
+   text-align: center;
+}
+
+
