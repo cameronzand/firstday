@@ -1,1 +1,1 @@
-Read me file is right here. Read this first because this is a read me file. 
+Yesterday we learned a good chunk of HTMl and CSS. We got to recreate a website that was given to us in image form. It was a great assignment to get good experiance with HTML and CSS.
